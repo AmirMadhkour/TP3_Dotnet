@@ -1,0 +1,38 @@
+﻿@model IEnumerable<dynamic>
+
+@{
+    ViewData["Title"] = "Producers and Their Movies";
+}
+
+<h1>Producers and Their Movies</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Producer Name</th>
+            <th>Nationality</th>
+            <th>Movies</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var producer in Model)
+        {
+            <tr>
+                <td>@producer.ProducerName</td>
+                <td>@producer.ProducerNationality</td>
+                <td>
+                    <ul>
+                        @foreach (var movie in producer.Movies)
+                        {
+                            <li>@movie.MovieTitle (@movie.MovieGenre)</li>
+                        }
+                    </ul>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</p>

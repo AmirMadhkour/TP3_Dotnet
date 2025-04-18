@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|c:\\users\\user\\desktop\\tps\\.net\\cinemamanager-hamza\\cinemamanager-hamza\\cinemamanager-hamza\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|solutionrelative:cinemamanager-hamza\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|c:\\users\\user\\desktop\\tps\\.net\\cinemamanager-hamza\\cinemamanager-hamza\\cinemamanager-hamza\\views\\movies\\prodsandtheirmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|solutionrelative:cinemamanager-hamza\\views\\movies\\prodsandtheirmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|c:\\users\\user\\desktop\\tps\\.net\\cinemamanager-hamza\\cinemamanager-hamza\\cinemamanager-hamza\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|solutionrelative:cinemamanager-hamza\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|c:\\users\\user\\desktop\\tps\\.net\\cinemamanager-hamza\\cinemamanager-hamza\\cinemamanager-hamza\\views\\movies\\moviesandtheirprods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|solutionrelative:cinemamanager-hamza\\views\\movies\\moviesandtheirprods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|c:\\users\\user\\desktop\\tps\\.net\\cinemamanager-hamza\\cinemamanager-hamza\\cinemamanager-hamza\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|solutionrelative:cinemamanager-hamza\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|c:\\users\\user\\desktop\\tps\\.net\\cinemamanager-hamza\\cinemamanager-hamza\\cinemamanager-hamza\\models\\cinema\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|solutionrelative:cinemamanager-hamza\\models\\cinema\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|c:\\users\\user\\desktop\\tps\\.net\\cinemamanager-hamza\\cinemamanager-hamza\\cinemamanager-hamza\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|solutionrelative:cinemamanager-hamza\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|c:\\users\\user\\desktop\\tps\\.net\\cinemamanager-hamza\\cinemamanager-hamza\\cinemamanager-hamza\\models\\cinema\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|solutionrelative:cinemamanager-hamza\\models\\cinema\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|c:\\users\\user\\desktop\\tps\\.net\\cinemamanager-hamza\\cinemamanager-hamza\\cinemamanager-hamza\\models\\cinema\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A488BF-E1A1-4394-BBD6-5863D1ECD24D}|CinemaManager-Hamza\\CinemaManager-Hamza.csproj|solutionrelative:cinemamanager-hamza\\models\\cinema\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdsAndTheirMovies.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Views\\Movies\\ProdsAndTheirMovies.cshtml",
+              "RelativeDocumentMoniker": "CinemaManager-Hamza\\Views\\Movies\\ProdsAndTheirMovies.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Views\\Movies\\ProdsAndTheirMovies.cshtml",
+              "RelativeToolTip": "CinemaManager-Hamza\\Views\\Movies\\ProdsAndTheirMovies.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T10:13:05.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProducersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Controllers\\ProducersController.cs",
+              "RelativeDocumentMoniker": "CinemaManager-Hamza\\Controllers\\ProducersController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Controllers\\ProducersController.cs",
+              "RelativeToolTip": "CinemaManager-Hamza\\Controllers\\ProducersController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:58:13.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\appsettings.json",
+              "RelativeDocumentMoniker": "CinemaManager-Hamza\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\appsettings.json",
+              "RelativeToolTip": "CinemaManager-Hamza\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T10:01:33.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CinemaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Models\\Cinema\\CinemaDbContext.cs",
+              "RelativeDocumentMoniker": "CinemaManager-Hamza\\Models\\Cinema\\CinemaDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Models\\Cinema\\CinemaDbContext.cs",
+              "RelativeToolTip": "CinemaManager-Hamza\\Models\\Cinema\\CinemaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:01:28.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinemaManager-Hamza\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "CinemaManager-Hamza\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T09:53:21.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesAndTheirProds.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Views\\Movies\\MoviesAndTheirProds.cshtml",
+              "RelativeDocumentMoniker": "CinemaManager-Hamza\\Views\\Movies\\MoviesAndTheirProds.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Views\\Movies\\MoviesAndTheirProds.cshtml",
+              "RelativeToolTip": "CinemaManager-Hamza\\Views\\Movies\\MoviesAndTheirProds.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T09:50:44.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "CinemaManager-Hamza\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "CinemaManager-Hamza\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:40:18.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Models\\Cinema\\Movie.cs",
+              "RelativeDocumentMoniker": "CinemaManager-Hamza\\Models\\Cinema\\Movie.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Models\\Cinema\\Movie.cs",
+              "RelativeToolTip": "CinemaManager-Hamza\\Models\\Cinema\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:22:31.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Models\\Cinema\\Producer.cs",
+              "RelativeDocumentMoniker": "CinemaManager-Hamza\\Models\\Cinema\\Producer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TPS\\.Net\\CinemaManager-Hamza\\CinemaManager-Hamza\\CinemaManager-Hamza\\Models\\Cinema\\Producer.cs",
+              "RelativeToolTip": "CinemaManager-Hamza\\Models\\Cinema\\Producer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:02:22.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

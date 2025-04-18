@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CinemaManager-Hamza",
+    "\\CinemaManager-Hamza\\CinemaManager-Hamza",
+    "\\CinemaManager-Hamza\\CinemaManager-Hamza\\Models",
+    "\\CinemaManager-Hamza\\CinemaManager-Hamza\\Models\\Cinema",
+    "\\CinemaManager-Hamza\\CinemaManager-Hamza\\Properties",
+    "\\CinemaManager-Hamza\\CinemaManager-Hamza\\Views",
+    "\\CinemaManager-Hamza\\CinemaManager-Hamza\\Views\\Home",
+    "\\CinemaManager-Hamza\\CinemaManager-Hamza\\Views\\Movies",
+    "\\CinemaManager-Hamza\\CinemaManager-Hamza\\Views\\Producers"
+  ],
+  "SelectedNode": "\\CinemaManager-Hamza\\CinemaManager-Hamza\\Controllers\\MoviesController.cs",
+  "PreviewInSolutionExplorer": false
+}
